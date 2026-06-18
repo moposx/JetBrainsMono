@@ -1,2 +1,3 @@
 gftools
 fonttools[woff]
+opentype-feature-freezer
